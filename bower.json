@@ -1,0 +1,21 @@
+{
+  "name": "hangout-componentes",
+  "authors": [
+    "Miguel Angel Alvarez <malvarez@desarrolloweb.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}

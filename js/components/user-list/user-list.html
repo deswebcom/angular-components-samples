@@ -1,0 +1,6 @@
+<p ng-repeat="item in $ctrl.usuarios">
+  {{item.name}} {{item.email}}
+</p>
+
+
+<user-detail ng-repeat="item in $ctrl.usuarios" usuario="item" numero="{{$index}}"></user-detail>
